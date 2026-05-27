@@ -1,0 +1,6 @@
+{
+  "name": "Thermal Liquid VJ Text Simulator",
+  "description": "A dynamic thermal scanner styled liquid metal VJ text visualizer driven by audio microphone or local files.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
